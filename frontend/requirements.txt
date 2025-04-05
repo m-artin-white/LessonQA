@@ -1,0 +1,7 @@
+npm install axios
+npm install bootstrap
+npm install @popperjs/core
+npm install react-bootstrap
+npm install react-router-dom
+npm install --save-dev vitest @testing-library/react @testing-library/jest-dom @testing-library/user-event
+npm install --save-dev jsdom @testing-library/jest-dom

@@ -1,0 +1,8 @@
+.text-left {
+    text-align: left;
+}
+
+.list-group-item {
+    border-left: 4px solid #007bff; 
+    padding: 15px;
+}

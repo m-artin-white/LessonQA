@@ -1,0 +1,16 @@
+ollama
+ipykernel
+uvicorn
+python-multipart
+fastapi[all]
+pyyaml
+python-dotenv
+pymongo[srv]==3.11
+motor
+bcrypt
+pyjwt
+pydantic
+pymupdf
+python-pptx
+llama-index
+pytest
